@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+#隱私權政策說明
 
-You can use the [editor on GitHub](https://github.com/DivaDiva/Policy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+本公司非常重視用戶隱私。在使用我們的產品（包括服務）時，我們可能收集和使用您的相關信息，以提高我們的服務質量; 只要在合理的業務範圍內，我們將竭盡全力保護您的隱私。我們建議您詳細閱讀“隱私政策”，以了解我們收集的信息類型，我們如何收集這些信息以及我們如何使用它們。通過使用我們的產品或服務，您同意收集，存儲和使用您的信息，只要遵循本文規定的上下文和遵守當地法律法規。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+收集和使用信息:
+我們收集和存儲相關的個人信息，以創建您的帳戶，並為任何後續服務提供必要的支持。如果您不想提供此信息，您可能無法註冊帳戶，享受隨後提供的任何或所有服務，或獲得某些服務的最佳用戶體驗。未註冊的用戶也可以使用某些功能; 我們不會從未註冊的用戶收集任何個人信息。
 
-### Markdown
+我們收集的信息包括：
+任何名稱，電子郵件地址，電話號碼，上傳的照片等在您註冊帳戶時輸入或填寫。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+數據安全:
+我們使用各種行業標準的加密方法（如SSL，TLS）來保護數據的傳輸，存儲和共享。但是我們要求您明白，由於互聯網的局限性，即使使用最先進的安全技術，我們也無法保證100％的信息安全。因此，我們要求您了解並確認向我們傳送信息時所涉及的風險。
+在我們的服務器上存儲數據時，我們將通過策略，物理手段，邏輯手段等來確保數據的安全。但是，您的設備或計算機上的數據更多依賴於您的設備安全性，因此我們建議您必要的預防措施，以確保您的本地數據的安全。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DivaDiva/Policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+政策更新
+當隱私政策有更新時，我們將在明顯的位置上顯示更新日期。我們建議您每次仔細檢查更新的內容; 當您繼續使用我們的產品或服務時，我們將始終認為您同意最近有效的條款和條件。
